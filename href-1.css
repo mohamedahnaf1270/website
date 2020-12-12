@@ -1,0 +1,198 @@
+body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .topnav {
+            overflow: hidden;
+            background-color: rgb(41, 41, 41);
+        }
+        
+        .topnav a {
+            float: left;
+            color: #000000;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        
+        .topnav a:hover {
+            background-color: rgb(65, 65, 65);
+            color: rgb(255, 255, 255);
+        }
+        
+        .topnav a.active {
+            background-color: #000000;
+            color: rgb(255, 255, 255);
+        }
+        
+        .ad {
+            position: fixed;
+            right: 150px;
+            top: 215px;
+        }
+        
+        .heading {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 50px;
+            position: fixed;
+            left: 10px
+        }
+        
+        .fisrthr {
+            border: dashed;
+            border-start-end-radius: 20px;
+        }
+        
+        .pc1 {
+            position: fixed;
+            left: 10px;
+            top: 200px;
+            padding: 100px 100px;
+            background-image: url(DSC09572.jpg);
+            background-size: cover;
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+        }
+        
+        .pc2 {
+            position: fixed;
+            left: 400px;
+            top: 200px;
+            padding: 100px 100px;
+            background-image: url(rgb.jpg);
+            background-size: cover;
+            color: white;
+        }
+        
+        .pc3 {
+            position: fixed;
+            left: 745px;
+            top: 200px;
+            padding: 100px 100px;
+            background-image: url(nzxt.jpeg);
+            background-size: cover;
+            color: white;
+        }
+        
+        .pc4 {
+            position: fixed;
+            left: 1050px;
+            top: 200px;
+            padding: 100px 100px;
+            background-image: url(corsair.jpg);
+            background-size: cover;
+            color: white;
+        }
+        
+        .kbm1 {
+            position: fixed;
+            left: 10px;
+            top: 430px;
+            padding: 100px 100px;
+            background-image: url(mouse.jpg);
+            background-size: cover;
+            color: white
+        }
+        
+        .kbm2 {
+            position: fixed;
+            left: 270px;
+            top: 430px;
+            padding: 100px 100px;
+            background-image: url(kbm.jpg);
+            background-size: cover;
+            color: white
+        }
+        
+        .kbm3 {
+            position: fixed;
+            left: 600px;
+            top: 430px;
+            padding: 100px 100px;
+            background-image: url(headset.jpg);
+            background-size: cover;
+            color: black
+        }
+        
+        .kbm4 {
+            position: fixed;
+            left: 910px;
+            top: 430px;
+            padding: 100px 100px;
+            background-image: url(mousepad.jpg);
+            background-size: cover;
+            color: white
+        }
+        
+        .contact {
+            position: fixed;
+            bottom: 20px;
+            left: 1300px;
+            color: grey;
+            text-decoration: none;
+        }
+        
+        .about {
+            position: fixed;
+            bottom: 20px;
+            left: 1390px;
+            color: grey;
+            text-decoration: none;
+        }
+        
+        .find {
+            position: fixed;
+            bottom: 20px;
+            left: 1470px;
+            color: grey;
+            text-decoration: none;
+        }
+        
+        .pc11 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .pc22 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .pc33 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .pc44 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .kbm11 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .kbm22 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .kbm33 {
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
+        
+        .kbm44 {
+            text-decoration: none;
+            color: white;
+        }
+        
+        .logo {
+            position: fixed;
+            right: 150px;
+            bottom: 20px;
+            border: 300px 300px;
+        }
